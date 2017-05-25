@@ -1,0 +1,16 @@
+.App {
+  text-align: left;
+  padding: 20px;
+}
+
+.App-header {
+  
+  height: 70px;
+  padding: 20;
+  color: black;
+}
+
+.App-intro {
+  font-size: large;
+  color: black;
+}
